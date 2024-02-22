@@ -1,7 +1,14 @@
-# This took a little bit of clicking to figure out
+# Markup Activity
 
+## Code Block
 ``` javascript
 var myVar = "Hello, world!";
 ```
 
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+## Image Added
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
